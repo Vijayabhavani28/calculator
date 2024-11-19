@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  .card {
+    padding: 20px;
+    box-shadow: inset lightblue;
+  }
+  
+  button {
+    font-size: 1.5em;
+    height: 70px;
+  }
+  
